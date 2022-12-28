@@ -11,7 +11,7 @@ public class Lesson1 {
 
         int friends_bYear = today_Year - friends_Age;
 
-        System.out.println(friends_bYear);
+        System.out.println("friend`s birth year is " + friends_bYear);
 
 
     }
